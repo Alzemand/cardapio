@@ -15,6 +15,7 @@ New-Item -ItemType Directory -Force $destino | Out-Null
 
 # original => nome publicado
 $fotos = [ordered]@{
+  'perfil' = 'perfil'
   '20250506_204007' = 'caldo-verde'
   '20250521_224301' = 'creme-abobora'
   '20240922_135645' = 'fusilli-bolonhesa'

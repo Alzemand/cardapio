@@ -61,7 +61,7 @@ window.CARDAPIO = [
     nome: "Peixes",
     chamada: "Salmão dourado na frente, e peixes leves logo atrás.",
     pratos: [
-      { nome: "Salmão com Purê de Abóbora e Legumes", desc: "Salmão dourado com purê de abóbora, cenouras e brócolis no vapor.", fotos: ["salmao-abobora-1", "salmao-abobora-2"], foco: 70 },
+      { nome: "Salmão com Purê de Banana-da-Terra e Legumes", desc: "Salmão dourado com purê de banana-da-terra, cenouras e brócolis no vapor.", fotos: ["salmao-abobora-1", "salmao-abobora-2"], foco: 70 },
       { nome: "Salmão com Risoto ao Maracujá", desc: "Salmão dourado sobre risoto cremoso, com molho de maracujá e coentro.", fotos: ["salmao-maracuja"], foco: 55 },
       { nome: "Salmão com Risoto e Redução Balsâmica", desc: "Salmão glaceado sobre risoto, com redução balsâmica, cebolinha e raspas de limão.", fotos: ["salmao-balsamico"], foco: 100 },
       { nome: "Salmão Hasselback com Risoto de Champignon", desc: "Salmão em fatias recheadas com ervas sobre risoto de champignon, com azeite de ervas.", fotos: ["salmao-hasselback"], foco: 32 },
@@ -69,9 +69,9 @@ window.CARDAPIO = [
       { nome: "Salmão com Espaguete e Alcaparras", desc: "Salmão dourado ao lado de espaguete com alcaparras e coentro fresco.", fotos: ["salmao-alcaparras"], foco: 50 },
       { nome: "Filé de Peixe com Azeitonas e Arroz Cremoso", desc: "Filé assado com ervas e azeitonas verdes sobre arroz cremoso com champignons e azeite.", fotos: ["peixe-azeitonas"], foco: 55 },
       { nome: "Peixe Grelhado com Camarões, Arroz Dourado e Abacate", desc: "Filé grelhado com camarões inteiros, arroz amarelo e salada de abacate com tomatinhos.", fotos: ["peixe-camaroes"], foco: 43 },
-      { nome: "Peixe Grelhado com Champignon e Purê de Abóbora", desc: "Filé dourado com champignons, purê de abóbora, cenouras e brócolis.", fotos: ["peixe-champignon"], foco: 55 },
-      { nome: "Empanado Crocante com Purê de Abóbora", desc: "Filé empanado e dourado com purê de abóbora, cenouras e brócolis.", fotos: ["empanado-abobora"], foco: 50 },
-      { nome: "Empanado de Sementes com Purê e Beterraba", desc: "Filés com crosta de sementes, purê de abóbora, beterraba ralada e cenouras.", fotos: ["empanado-sementes"], foco: 55 },
+      { nome: "Peixe Grelhado com Champignon e Purê de Banana-da-Terra", desc: "Filé dourado com champignons, purê de banana-da-terra, cenouras e brócolis.", fotos: ["peixe-champignon"], foco: 55 },
+      { nome: "Peixe Crocante com Purê de Banana-da-Terra", desc: "Filé de peixe empanado e dourado com purê de banana-da-terra, cenouras e brócolis.", fotos: ["empanado-abobora"], foco: 50 },
+      { nome: "Peixe Crocante de Sementes com Purê e Beterraba", desc: "Filés de peixe com crosta de sementes, purê de banana-da-terra, beterraba ralada e cenouras.", fotos: ["empanado-sementes"], foco: 55 },
       { nome: "Empanado com Batata-Doce e Molho Agridoce", desc: "Filé empanado com fios de molho agridoce sobre batata-doce assada e ervas.", fotos: ["empanado-batata-doce"], foco: 75 }
     ]
   },
