@@ -65,6 +65,12 @@ $fotos = [ordered]@{
   '20250423_195445' = 'hamburguer-frango'
   '20251005_210212' = 'toast-abacate'
   '20260222_205912' = 'omelete'
+  'batata-recheada' = 'batata-recheada'
+  'coxinha-de-asa-na-airfryer' = 'coxinha-asa'
+  'crepioca-de-queijo-com-tomate-e-oregano-05-2-730x548' = 'crepioca'
+  'mingau-canela' = 'mingau-canela'
+  'sanduiche-atum' = 'sanduiche-atum'
+  'Tapioca-presunto-queijo-1' = 'tapioca-presunto-queijo'
   '20250906_144110' = 'maca-assada-1'
   '20250906_144320' = 'maca-assada-2'
 }

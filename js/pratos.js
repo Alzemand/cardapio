@@ -81,7 +81,7 @@ window.CARDAPIO = [
     chamada: "Fogo alto, legumes coloridos e molho brilhante.",
     pratos: [
       { nome: "Yakisoba de Frango", desc: "Macarrão salteado com cubos de frango, brócolis, cenoura e repolho roxo.", fotos: ["yakisoba-frango"], foco: 64 },
-      { nome: "Macarrão Salteado com Carne e Legumes", desc: "Macarrão ondulado salteado com carne em cubos, brócolis, cenoura e repolho roxo.", fotos: ["macarrao-carne"], foco: 57 }
+      { nome: "Yakisoba de Carne", desc: "Macarrão salteado com carne em cubos, brócolis, cenoura e repolho roxo.", fotos: ["macarrao-carne"], foco: 57 }
     ]
   },
   {
@@ -99,10 +99,16 @@ window.CARDAPIO = [
     nome: "Lanches e Manhãs",
     chamada: "Para quando a fome chega sem hora marcada.",
     pratos: [
-      { nome: "Cheeseburger Clássico", desc: "Hambúrguer com queijo, tomate e alface no pão tostado na chapa.", fotos: ["cheeseburger"], foco: 50 },
+      { nome: "Cheeseburger Clássico", desc: "Hambúrguer com queijo, tomate e alface no pão tostado na chapa. Também há opção vegetariana.", fotos: ["cheeseburger"], foco: 50 },
       { nome: "Hambúrguer de Frango", desc: "Hambúrguer de frango com alface e molho de queijo no pão com gergelim.", fotos: ["hamburguer-frango"], foco: 25 },
       { nome: "Toast de Abacate com Ovo", desc: "Pão tostado com abacate amassado, tomate e ovo frito com orégano.", fotos: ["toast-abacate"], foco: 37 },
-      { nome: "Omelete de Tomate e Manjericão", desc: "Omelete dourada recheada com tomate, finalizada com manjericão e orégano.", fotos: ["omelete"], foco: 37 }
+      { nome: "Omelete de Tomate e Manjericão", desc: "Omelete dourada recheada com tomate, finalizada com manjericão e orégano.", fotos: ["omelete"], foco: 37 },
+      { nome: "Sanduíche de Atum", desc: "Pão integral com pasta de atum, alface e tomate.", fotos: ["sanduiche-atum"], foco: 50 },
+      { nome: "Batata Recheada", desc: "Batata assada recheada com presunto e queijo gratinado, servida com salada.", fotos: ["batata-recheada"], foco: 50 },
+      { nome: "Coxinha de Asa", desc: "Asinhas de frango douradas e crocantes.", fotos: ["coxinha-asa"], foco: 50 },
+      { nome: "Tapioca de Presunto e Queijo", desc: "Tapioca na chapa recheada com presunto e queijo derretido, com orégano.", fotos: ["tapioca-presunto-queijo"], foco: 50 },
+      { nome: "Crepioca de Queijo e Tomate", desc: "Crepioca recheada com queijo e tomate-cereja, finalizada com orégano.", fotos: ["crepioca"], foco: 50 },
+      { nome: "Mingau de Aveia com Canela", desc: "Mingau cremoso finalizado com canela em pó.", fotos: ["mingau-canela"], foco: 50 }
     ]
   },
   {
