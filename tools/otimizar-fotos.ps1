@@ -73,6 +73,9 @@ $fotos = [ordered]@{
   'Tapioca-presunto-queijo-1' = 'tapioca-presunto-queijo'
   '20250906_144110' = 'maca-assada-1'
   '20250906_144320' = 'maca-assada-2'
+  'espaguete' = 'espaguete-bolonhesa'
+  'carpelete molho branco' = 'capeletti-molho-branco'
+  'arroz caldoso e file mignon com mussarela' = 'file-mussarela-arroz'
 }
 
 $codec = [System.Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() |

@@ -49,10 +49,20 @@
     return item;
   }
 
+  var trocaAtual = 0;
+
   function mostrarFoto(prato, indice) {
     var foto = prato.fotos[indice];
-    detalheFoto.src = caminho(foto, false);
+    var token = ++trocaAtual;
+    // Mostra já a miniatura (em cache) e troca pela grande quando carregar,
+    // para nunca aparecer a foto do prato anterior.
+    detalheFoto.src = caminho(foto, true);
     detalheFoto.alt = prato.nome;
+    var grande = new Image();
+    grande.onload = function () {
+      if (token === trocaAtual) detalheFoto.src = grande.src;
+    };
+    grande.src = caminho(foto, false);
     Array.prototype.forEach.call(detalheGaleria.children, function (botao, i) {
       botao.setAttribute("aria-current", i === indice ? "true" : "false");
     });

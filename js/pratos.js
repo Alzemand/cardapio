@@ -30,7 +30,9 @@ window.CARDAPIO = [
       { nome: "Fettuccine ao Alho e Ervas", desc: "Fettuccine salteado no alho com ervas frescas e pimenta-do-reino.", fotos: ["fettuccine-alho"], foco: 64 },
       { nome: "Fettuccine ao Pesto com Tomates Assados", desc: "Fettuccine envolvido em pesto, com tomates assados e folhas de manjericão.", fotos: ["fettuccine-pesto"], foco: 43 },
       { nome: "Fettuccine Cremoso de Frutos do Mar", desc: "Fettuccine em molho branco com camarões, lulas e mexilhões, salpicado de ervas.", fotos: ["fettuccine-frutos-do-mar"], foco: 100 },
-      { nome: "Pappardelle ao Sugo com Camarão", desc: "Fitas largas de massa com molho de tomate e camarões, queijo ralado e manjericão.", fotos: ["pappardelle-camarao"], foco: 45 }
+      { nome: "Pappardelle ao Sugo com Camarão", desc: "Fitas largas de massa com molho de tomate e camarões, queijo ralado e manjericão.", fotos: ["pappardelle-camarao"], foco: 45 },
+      { nome: "Espaguete à Bolonhesa", desc: "Espaguete com molho de tomate e carne moída, queijo ralado e folhas de manjericão.", fotos: ["espaguete-bolonhesa"], foco: 74 },
+      { nome: "Capeletti ao Molho Branco", desc: "Capeletti recheado em molho branco cremoso, finalizado com salsinha.", fotos: ["capeletti-molho-branco"], foco: 60 }
     ]
   },
   {
@@ -53,7 +55,8 @@ window.CARDAPIO = [
       { nome: "Filé ao Molho sobre Espaguete ao Pesto", desc: "Filé com molho escuro sobre espaguete com pesto, finalizado com manjericão.", fotos: ["file-espaguete-1", "file-espaguete-2"], foco: 50 },
       { nome: "Medalhões com Purê Aveludado e Aspargos", desc: "Medalhões de filé com champignons e alecrim, purê bem liso e aspargos com alho crocante.", fotos: ["medalhoes"], foco: 55 },
       { nome: "Filé com Purê, Vagens e Tomates Assados", desc: "Filé com alho assado e alecrim sobre purê de batata, com vagens e tomates assados.", fotos: ["file-pure-vagens"], foco: 55 },
-      { nome: "Bisteca Suína com Purê de Maçã e Batatas", desc: "Bisteca assada com alecrim, purê de maçã e batatas cozidas com ervas.", fotos: ["bisteca"], foco: 55 }
+      { nome: "Bisteca Suína com Purê de Maçã e Batatas", desc: "Bisteca assada com alecrim, purê de maçã e batatas cozidas com ervas.", fotos: ["bisteca"], foco: 55 },
+      { nome: "Filé com Mussarela e Arroz Caldoso", desc: "Filé grelhado coberto com mussarela derretida sobre arroz caldoso com tomate e ervas.", fotos: ["file-mussarela-arroz"], foco: 75 }
     ]
   },
   {
